@@ -1,0 +1,94 @@
+.MuiAppBar-colorDefault {
+  background-color: #47c0b6 !important;
+  /* margin-top: -8px !important; */
+}
+
+.PrivateTabIndicator-colorPrimary-5 {
+  background-color: white !important;
+}
+.MuiButtonBase-root {
+  color: white !important;
+}
+.MuiPaper-rounded {
+  border-radius: 8px !important;
+}
+/* .MuiTab-wrapper, */
+.PrivateTabIndicator-colorPrimary-5,
+.PrivateTabIndicator-colorPrimary-6,
+.MuiTabs-indicator,
+.PrivateTabIndicator-root-8,
+.PrivateTabIndicator-colorPrimary-9,
+.jss8,
+.jss9 {
+  color: white !important;
+  font-size: 12px !important;
+  background-color: #fff;
+}
+.PrivateTabIndicator-colorPrimary-6 {
+  background-color: white !important;
+}
+.MuiTabs-flexContainer > span {
+  background-color: white !important;
+}
+canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+.MuiDataGrid-main > .MuiDataGrid-columnsContainer {
+  background-color: #47c0b6 !important;
+  color: white !important;
+}
+body {
+  margin: 0px !important;
+}
+.MuiAppBar-colorPrimary {
+  color: rgb(0, 0, 0) !important;
+  background-color: #ffffff !important;
+}
+
+/* .MuiButtonBase-root {
+  color: #2e4452 !important;
+} */
+
+.PrivateTabIndicator-colorPrimary-9 {
+  background-color: #fff !important;
+}
+
+.jss8,
+.jss9 {
+  color: white !important;
+  font-size: 12px !important;
+  background-color: #fff !important;
+}
+
+@media (max-width: 500px) {
+  .jss12 {
+    padding: 5px !important;
+  }
+  #scrollable-auto-tabpanel-0 > div,
+  #scrollable-auto-tabpanel-1 > div,
+  #scrollable-auto-tabpanel-2 > div,
+  #scrollable-auto-tabpanel-3 > div,
+  #scrollable-auto-tabpanel-4 > div,
+  #scrollable-auto-tabpanel-5 > div,
+  #scrollable-auto-tabpanel-6 > div,
+  .MuiBox-root-13 {
+    padding: 6px !important;
+  }
+  /* .chartPie{ */
+  canvas {
+    width: 116% !important;
+    height: 100% !important;
+    margin-left: -25px;
+  }
+  /* } */
+}
+
+.MuiDataGrid-main > div:nth-child(1) {
+  color: white !important;
+  display: none !important;
+}
+
+.MuiButton-containedSecondary:hover {
+  background-color: #61b3aa !important;
+}
